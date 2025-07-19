@@ -3,6 +3,7 @@ cadena2 = ''
 
 print(cadena[:2])
 print(cadena[len(cadena)-3:len(cadena)])
+print(cadena[-3:])
 
 for i in range(len(cadena)-1):
     if i % 2 == 0:
