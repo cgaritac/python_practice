@@ -59,4 +59,5 @@ for i in range(20):
         print('Tu numero es: {}, avanzas: {}'.format(turno2, turno2*20))
         turtle2.pendown()
         turtle2.forward(20*turno2)
+        
 turtle.done()
